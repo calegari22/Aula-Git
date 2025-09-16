@@ -1,2 +1,2 @@
 # Aula-Git
-Aula de github professor Vanderson - segundo semestre 3DC
+Aula de github professor Vanderson - terceiro semestre 3DC
